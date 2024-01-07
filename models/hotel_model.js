@@ -1,0 +1,1 @@
+// name,address,no of room,rates,img_url
